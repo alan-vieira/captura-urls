@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Capturador de URLs",
+  "version": "1.0",
+  "description": "Captura todas as URLs abertas no navegador.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  }
+}
