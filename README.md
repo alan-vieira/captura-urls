@@ -24,7 +24,7 @@
 1. Faça o download deste repositório:
 
 ```bash
-git clone https://github.com/seuusuario/captura-urls.git
+git clone https://github.com/alan-vieira/captura-urls.git
 ```
    
 Ou baixe o .zip diretamente do GitHub e extraia em seu computador.
