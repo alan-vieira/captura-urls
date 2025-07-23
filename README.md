@@ -23,14 +23,17 @@
 
 1. Faça o download deste repositório:
 
-   ```bash
-   git clone https://github.com/seuusuario/captura-urls.git
+```bash
+git clone https://github.com/seuusuario/captura-urls.git
+```
+   
 Ou baixe o .zip diretamente do GitHub e extraia em seu computador.
 
 2. No Chrome, acesse a página de extensões:
   
-    ```bash
-    chrome://extensions
+ ```bash
+ chrome://extensions
+ ```
 
 3. Ative o Modo do desenvolvedor (botão no canto superior direito).
 4. Clique em "Carregar sem compactação".
@@ -45,13 +48,13 @@ Ou baixe o .zip diretamente do GitHub e extraia em seu computador.
 
 ## 📁 Estrutura do Projeto
     
-  ```bash
-    captura-urls/
-    ├── manifest.json      # Configuração da extensão
-    ├── popup.html         # Interface do usuário (popup)
-    ├── popup.js           # Lógica de captura e salvamento das URLs
-    └── icon.png           # Ícone da extensão (16x16)
-  ```
+```bash
+ captura-urls/
+ ├── manifest.json      # Configuração da extensão
+ ├── popup.html         # Interface do usuário (popup)
+ ├── popup.js           # Lógica de captura e salvamento das URLs
+ └── icon.png           # Ícone da extensão (16x16)
+```
 
 
 ## 🖼️ Captura de Tela
